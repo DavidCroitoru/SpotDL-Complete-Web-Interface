@@ -11,7 +11,7 @@ MUSIC_DIR="/music"
 SPOTDL_TOKEN="${SPOTDL_TOKEN:-your-secret-token-here}"
 
 echo "=========================================="
-echo "SpotDL Web - ZIP Setup (no git, no venv)"
+echo "SpotDL Container/Server Setup"
 echo "=========================================="
 
 echo "[1/7] System update + dependencies..."
