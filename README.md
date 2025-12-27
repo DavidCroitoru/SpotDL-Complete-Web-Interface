@@ -58,8 +58,16 @@ Modify:
 ```
 Environment="SPOTDL_TOKEN=your-secret-token-here"
 ```
-
 Replace with a secure token/password.
+
+
+Optional:
+```
+Environment=""SPOTDL_PATH=/usr/local/bin/spotdl""
+```
+Replace with your spotdl install location.
+
+
 
 4. **Restart the service**:
 ```bash
