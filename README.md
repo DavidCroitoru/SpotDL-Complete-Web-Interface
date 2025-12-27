@@ -27,9 +27,12 @@ Web-based frontend for [SpotDL](https://github.com/spotDL/spotify-downloader) wi
 
 ### Installation
 
-1. **Download the setup script**:
+1. **Download the repository files**:
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/setup.sh
+# Clone or download the repository
+git clone https://github.com/DavidCroitoru/SpotDL-Complete-Web-Interface
+cd SpotDL-Complete-Web-Interface
+
 chmod +x setup.sh
 ```
 
@@ -42,6 +45,7 @@ The script will:
 - Update system packages
 - Install Python, FFmpeg, and dependencies
 - Configure SpotDL and Flask application
+- Copy `app.py` and `templates/` to `/opt/spotdl-web/`
 - Create systemd service
 - Start the service
 
