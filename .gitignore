@@ -1,5 +1,5 @@
 # Screenshots folder
-screenshots/
+/screenshots/
 
 # Python
 __pycache__/
