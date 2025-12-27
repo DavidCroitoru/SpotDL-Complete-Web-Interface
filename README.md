@@ -122,7 +122,7 @@ systemctl restart spotdl-web
 Container specifications:
 - OS: Debian 12 / Ubuntu 22.04
 - RAM: 1GB minimum, 2GB recommended
-- Storage: 2GB+ (scales with collection)
+- Storage: 2GB+ (scales with collection, designed to be used with a NFS/SMB mount in /music)
 - Network: Bridged mode
 
 Run setup script post-creation.
@@ -213,7 +213,7 @@ Personal use only. SpotDL sources audio from YouTube. Respect copyright and supp
 
 ## License
 
-MIT License
+Apache-2.0 license
 
 ## Credits
 
