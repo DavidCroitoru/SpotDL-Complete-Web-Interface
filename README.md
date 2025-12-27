@@ -2,7 +2,7 @@
 
 Web-based frontend for [SpotDL](https://github.com/spotDL/spotify-downloader) with Flask backend. Designed for self-hosted deployments on Linux servers and Proxmox LXC containers.
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
 
