@@ -67,13 +67,13 @@ systemctl restart spotdl-web
 ```
 http://SERVER_IP:5000
 ```
-**ScreenShots**
+Authenticate with configured token/password.
+
+
+**Screenshots**
 ![Auth-Page](screenshots/auth.png)
 ![Main-Page](screenshots/main.png)
 ![Mobile-Page](screenshots/mobile.png)
-
-
-Authenticate with configured token/password.
 
 ## Usage
 
