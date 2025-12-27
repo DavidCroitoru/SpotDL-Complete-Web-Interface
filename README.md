@@ -30,7 +30,7 @@ Web-based frontend for [SpotDL](https://github.com/spotDL/spotify-downloader) wi
 1. **Download the repository files**:
 ```bash
 # Clone or download the repository
-git clone https://github.com/DavidCroitoru/SpotDL-Complete-Web-Interface
+git clone https://github.com/DavidCroitoru/SpotDL-Complete-Web-Interface.git
 cd SpotDL-Complete-Web-Interface
 
 chmod +x setup.sh
