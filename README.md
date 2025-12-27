@@ -210,7 +210,7 @@ Modify `BASE_DIR` in `/opt/spotdl-web/app.py` or set environment variable in ser
 
 ## Contributing
 
-Issues, forks, and pull requests welcome.
+Issues, forks, and pull requests are welcome.
 
 ## Legal
 
